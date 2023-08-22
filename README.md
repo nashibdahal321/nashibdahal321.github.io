@@ -1,2 +1,2 @@
-# my-web
-# https://nashibdahal321.github.io/my-web/
+# Personal Website
+# https://nashibdahal321.github.io/
